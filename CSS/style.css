@@ -1,0 +1,45 @@
+*{
+    color: black;
+}
+
+body{
+   
+    background-image: linear-gradient(    to left,green, blue);
+  
+}
+
+
+
+.head1{
+ padding-left: 35%;
+
+}
+
+
+.head1::first-letter{
+    font-size: 5rem;
+   
+
+}
+.head2:hover{
+
+  
+    
+   color: yellow;
+
+
+}
+.head3{
+    padding-left:5%;
+}
+
+
+
+
+
+
+
+
+
+
+
